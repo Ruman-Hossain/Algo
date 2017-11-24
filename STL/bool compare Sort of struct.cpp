@@ -53,6 +53,13 @@ int main()
             cout<<endl;
         }
     }
+    
+            /*
+            For Vector Sorting It would be like this
+
+                 sort( v.begin(), v.end(), compare );
+
+            */
 
     return 0;
 }
